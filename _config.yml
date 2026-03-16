@@ -1,0 +1,3 @@
+exclude:
+  - '*.gz'
+  - nginx.conf.snippet
